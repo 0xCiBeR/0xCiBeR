@@ -1,9 +1,9 @@
 ### Hi there, I'm Kevin - aka [ciber96] 👋
 ## I'm Argentinian, DevOps & a Developer
 
-- 🔭 Currently working as a DevOps Engineer for Rappi.com
+- 🔭 Currently working as a DevOps Engineer for Colombia's First Business Unicorn
 - 🌱 I’m currently learning everything there is to know to perfect my skills🤣
-- 🥅 2021 Goals: Open a hosting company
+- 🥅 2021 Goals: Learn GCP in-depth
 - ⚡ Fun fact: I love to play video games & cats
 <!--
 **ciber96/ciber96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
