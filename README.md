@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>Github Stats</h2>
+<h3>Spotify Playing 🎧</h3>
+<a href="https://open.spotify.com/user/keevgross">
+  <img align="center" src="https://spotify-readme-steel.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>
+</a>
+<h3>Github Stats</h3>
 <a href="https://github.com/ciber96/github-readme-stats">
   <img align="center" src="https://github-readme-stats-nine-orpin-64.vercel.app/api?username=ciber96&show_icons=true&hide_border=true&theme=radical" />
 </a>
-<h2>Top Languages</h2>
+<h3>Top Languages</h3>
 <a href="https://github.com/ciber96/github-readme-stats">
   <img align="center" src="https://github-readme-stats-nine-orpin-64.vercel.app/api/top-langs/?username=ciber96&theme=radical&hide_border=true" />
-</a>
-<h2>Spotify Playing 🎧</h2>
-<a href="https://open.spotify.com/user/keevgross">
-  <img align="center" src="https://spotify-readme-steel.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>
 </a>
