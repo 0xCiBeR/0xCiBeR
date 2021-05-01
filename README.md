@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Kevin - aka [ciber96] 👋
+## I'm Argentinian, DevOps & Developer
 
+- 🔭 Currently working as a DevOps Engineer for Rappi.com
+- 🌱 I’m currently learning everything there is to know to perfect my skills🤣
+- 🥅 2021 Goals: Open a hosting company
+- ⚡ Fun fact: I love to play video games & cats
 <!--
 **ciber96/ciber96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
