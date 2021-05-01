@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 </a>
 <h3>Wakatime Week Stats</h3>
 <a href="https://github.com/ciber96">
-  <img align="center" src="https://github-readme-stats-nine-orpin-64.vercel.app/api/wakatime?username=ciber96" />
+  <img align="center" src="https://github-readme-stats-nine-orpin-64.vercel.app/api/wakatime?username=ciber96&hide_border=true&theme=radical" />
 </a>
