@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<h2>Github Stats</h2>
 <a href="https://github.com/ciber96/github-readme-stats">
   <img align="center" src="https://github-readme-stats-nine-orpin-64.vercel.app/api?username=ciber96&show_icons=true&hide_border=true&theme=radical" />
 </a>
+<h2>Top Languages</h2>
 <a href="https://github.com/ciber96/github-readme-stats">
   <img align="center" src="https://github-readme-stats-nine-orpin-64.vercel.app/api/top-langs/?username=ciber96&theme=radical&hide_border=true" />
 </a>
