@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/ciber96/github-readme-stats">
   <img align="center" src="https://github-readme-stats-nine-orpin-64.vercel.app/api/top-langs/?username=ciber96&theme=radical&hide_border=true" />
 </a>
-### Spotify Playing 🎧
+<h2>Spotify Playing 🎧</h2>
 <a href="https://open.spotify.com/user/keevgross">
   <img align="center" src="https://spotify-readme-steel.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>
 </a>
