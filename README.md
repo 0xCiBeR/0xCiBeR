@@ -19,5 +19,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats-nine-orpin-64.vercel.app/api?username=ciber96&show_icons=true&hide_border=true&theme=radical" />
 </a>
 <a href="https://github.com/ciber96/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-nine-orpin-64.vercel.app/api/top-langs/?username=ciber96&theme=radical&hide_border=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats-nine-orpin-64.vercel.app/api/top-langs/?username=ciber96&theme=radical&hide_border=true" />
 </a>
