@@ -1,5 +1,5 @@
 ### Hi there, I'm Kevin - aka [ciber96] 👋
-## I'm Argentinian, DevOps & Developer
+## I'm Argentinian, DevOps & a Developer
 
 - 🔭 Currently working as a DevOps Engineer for Rappi.com
 - 🌱 I’m currently learning everything there is to know to perfect my skills🤣
