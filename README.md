@@ -1,7 +1,7 @@
 ### Hi there, I'm Kevin - aka [ciber96] 👋
-## I'm Argentinian, DevOps & a Developer
+## I'm Argentinian, DevOps, DevSecOps & a Developer
 
-- 🔭 Currently working as a DevOps Engineer for Colombia's First Business Unicorn
+- 🔭 Currently working as a DevSecOps Engineer on the Red Team for Colombia's First Business Unicorn
 - 🌱 I’m currently learning everything there is to know to perfect my skills🤣
 - 🥅 2021 Goals: Learn GCP in-depth
 - ⚡ Fun fact: I love to play video games & cats
