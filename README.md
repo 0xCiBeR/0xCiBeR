@@ -24,14 +24,14 @@ Here are some ideas to get you started:
   <img align="center" src="https://spotify-readme-steel.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>
 </a>
 <h3>Top Languages</h3>
-<a href="https://github.com/ciber96/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-nine-orpin-64.vercel.app/api/top-langs/?username=ciber96&theme=radical&hide_border=true" />
+<a href="https://github.com/0xCiBeR/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-nine-orpin-64.vercel.app/api/top-langs/?username=0xCiBeR&theme=radical&hide_border=true" />
 </a>
 <h3>Github Stats</h3>
-<a href="https://github.com/ciber96/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-nine-orpin-64.vercel.app/api?username=ciber96&show_icons=true&hide_border=true&theme=radical" />
+<a href="https://github.com/0xCiBeR/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-nine-orpin-64.vercel.app/api?username=0xCiBeR&show_icons=true&hide_border=true&theme=radical" />
 </a>
 <h3>Wakatime Week Stats</h3>
-<a href="https://github.com/ciber96">
-  <img align="center" src="https://github-readme-stats-nine-orpin-64.vercel.app/api/wakatime?username=ciber96&hide_border=true&theme=radical" />
+<a href="https://github.com/0xCiBeR">
+  <img align="center" src="https://github-readme-stats-nine-orpin-64.vercel.app/api/wakatime?username=0xCiBeR&hide_border=true&theme=radical" />
 </a>
