@@ -3,7 +3,7 @@
 
 - 🔭 Currently working as a DevSecOps Engineer on the Red Team for Colombia's First Business Unicorn
 - 🌱 I’m currently learning everything there is to know to perfect my skills🤣
-- 🥅 2021 Goals: Learn GCP in-depth
+- 🥅 2022 Goals: Do a lot of BugBounty!
 - ⚡ Fun fact: I love to play video games & cats
 <!--
 **ciber96/ciber96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
