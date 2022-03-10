@@ -1,5 +1,5 @@
 ### Hi there, I'm Kevin - aka [0xCiBeR] 👋
-## I'm Argentinian, DevOps, DevSecOps & a Developer
+## I'm an Argentinian DevOps/DevSecOps/Developer
 
 - 🔭 Currently working as a DevSecOps Engineer on the Red Team for Colombia's First Business Unicorn
 - 🌱 I’m currently learning everything there is to know to perfect my skills🤣
