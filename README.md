@@ -1,9 +1,9 @@
 ### Hi there, I'm Kevin - aka [0xCiBeR] 👋
 ## I'm an Argentinian DevOps/DevSecOps/Developer
 
-- 🔭 Currently working as a DevSecOps Engineer on the Red Team for Colombia's First Business Unicorn
+- 🔭 Currently working as a DevOps Engineer
 - 🌱 I’m currently learning everything there is to know to perfect my skills🤣
-- 🥅 2022 Goals: Do a lot of BugBounty!
+- 🥅 2022 Goals: Learn GCP!
 - ⚡ Fun fact: I love to play video games & cats
 <!--
 **ciber96/ciber96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
