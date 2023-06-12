@@ -31,7 +31,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/0xCiBeR/github-readme-stats">
   <img align="center" src="https://github-readme-stats-nine-orpin-64.vercel.app/api?username=0xCiBeR&show_icons=true&hide_border=true&theme=radical" />
 </a>
-<h3>Wakatime Week Stats</h3>
-<a href="https://github.com/0xCiBeR">
-  <img align="center" src="https://github-readme-stats-nine-orpin-64.vercel.app/api/wakatime?username=ciber96&hide_border=true&theme=radical" />
-</a>
