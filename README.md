@@ -3,7 +3,7 @@
 
 - 🔭 Currently working as a DevOps Engineer
 - 🌱 I’m currently learning everything there is to know to perfect my skills🤣
-- 🥅 2023 Goals: Learn GCP & Azure!
+- 🥅 2024 Goals: Learn GCP & Azure!
 - ⚡ Fun fact: I love to play video games & cats
 <!--
 **ciber96/ciber96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
